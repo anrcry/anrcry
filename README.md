@@ -13,7 +13,7 @@ I am a student residing in India, and currently studing (or rather finishing) my
 
 #### Here are some more insights:
 - 🔭 I’m currently working on **Nothing Really (besides my last semester project)**
-- 🌱 I’m currently learning **Deep Learning, Maching Learning etc.**
+- 🌱 I’m currently learning **Deep Learning, Machine Learning etc.**
 - 👯 I’m looking to collaborate on **Well anything**
 - 🤔 I’m looking for help with **Anything**
 - 💬 Ask me about **anything which is not rubbish**.
