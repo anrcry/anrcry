@@ -5,7 +5,7 @@ I am Anweshan Roy Chowdhury, short Anweshan (often called doraemon, I believe fo
 I am a student residing in India, and currently studing (or rather finishing) my **Bachelor of Science** degree in Computer Science. I passed my ISC and ICSE Examinations from La Martinere for Boys (Calcutta, India). My interests in Computer Science really started with its introduction in Class 3 or 4, with a language called LOGO. It grew to several other languages. I can now boast myself of knowing & really liking Python (I love & admire the language) and Javascript. At the server-side, besides using PHP, I have used (or come accross) Node.js (which is the really the future).
 
 ### Here are some ways you could contact me:
-- By Email: me@anweshan.online or anweshanrc15@gmail.com
+- By Email: anweshanrc15@gmail.com
 - By Website: https://me.anweshan.online
 - Via Twitter: [@anweshanrc151](https://twitter.com/anweshanrc151)
 - Via Facebook: [anweshan.roychowdhury](https://www.facebook.com/anweshan.roychowdhury)
