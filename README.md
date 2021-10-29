@@ -7,7 +7,7 @@ I am a student residing in India, and currently studing (or rather finishing) my
 ### Here are some ways you could contact me:
 - By Email: anweshanrc15@gmail.com
 - By Website: https://me.anweshan.online
-- Via Twitter: [@anweshanrc151](https://twitter.com/anweshanrc151)
+- Via Twitter: [@_formula21](https://twitter.com/_formula21)
 - Via Facebook: [anweshan.roychowdhury](https://www.facebook.com/anweshan.roychowdhury)
 - Via Instagram: [@anweshan_roy_chowdhury](https://instagram.com/anweshan_roy_chowdhury)
 - Via LinkedIn: [anweshanroychowdhury](https://in.linkedin.com/in/anweshanroychowdhury)
