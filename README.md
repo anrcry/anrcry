@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+
 
 I am Anweshan Roy Chowdhury, short Anweshan (often called doraemon, I believe for my somewhat round face), alias @formula21.
 
