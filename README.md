@@ -1,27 +1,21 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>!
 
 
-I am Anweshan Roy Chowdhury, short Anweshan (often called doraemon, I believe for my somewhat round face), alias @formula21.
+My name is Anweshan Roy Chowdhury (aka @formula21). I am a student that enjoys studying computer science as my primary subject. I am now pursuing **Master of Science in Computer Science** at the University of Calcutta. I received an **A** letter grade and a **Bachelor of Science (Honors) Degree** from the same university in 2021. I completed my schooling at La Martiniere for Boys, earning the best scores in Computer Science for both my I.S.C. and I.C.S.E.
 
-I am a student residing in India, and currently studying my **Master of Science** degree in Computer Science from the University of Calcutta (wish me luck). I graduated with my **Bachelor of Science** degree in Computer Science, from the University of Calcutta. I passed my ISC and ICSE Examinations from La Martiniere for Boys (Calcutta, India). My interests in Computer Science really started with its introduction in Class 3 or 4, with a language called LOGO. It grew to several other languages. I can now boast myself of knowing & really liking Python (I love & admire the language) and JavaScript. At the server-side, besides using PHP, I have used (or come across) Node.js (which is the really the future). Apart from this, I love to binge watch any series or movies on any OTT platform. I love to feed myself with different food (current favourite: Pizza). I have a hobby of reciting poems, playing my synthesizer, and having a chat with my grandmother. Apart from that, I really feel myself blessed when I have a quite & undisturbed sleep.
+You may have guessed that **I enjoy coding**. My major areas of interest include _artificial intelligence, backend development, UI/UX development_. I also enjoy bridging the gap between old and modern programming languages.
 
-### Here are some ways you could contact me:
-- By Email: anweshanrc15@gmail.com
-- ~By Website Contact Form (Coming Soon): https://me.anweshan.online~
-- Via Twitter: [@_formula21](https://twitter.com/_formula21)
-- Via Facebook: [anweshan.roychowdhury](https://www.facebook.com/anweshan.roychowdhury)
-- Via Instagram: [@anweshan_roy_chowdhury](https://instagram.com/anweshan_roy_chowdhury)
-- Via LinkedIn: [anweshanroychowdhury](https://in.linkedin.com/in/anweshanroychowdhury)
+I've learned a number of programming languages throughout the years, some as part of my academic pursuits and others simply out of interest. Python is one of my favourite programming languages. The most current programming languages I learnt are the popular JS Frameworks such as Node.js, React.js, and Express, to mention a few. I've also started the switch from RESTful API to GraphQL API and rapidly adapting to changes wherever possible. However, this does not indicate that I am unfamiliar with PHP, MySQL, or Java. I feel that when these languages are combined with modern languages, they provide some of the greatest outcomes. Recently, I've started merging PHP and Laravel projects with Node.js libraries. One example is using 'socket.io' to track changes to a file and provide users with real-time notifications and UI modifications.
 
-#### You can scan my QR Code:
-![QR Code](https://gravatar.com/11250e280ebaee84010f3b5ca23a918a.qr)
-
+Aside from programming, I enjoy playing my synthesizer, listening to music, binge-watching fascinating shows, and eating a lot of excellent (or perhaps amazing) food (very often, without a reason).
 
 ### Here are some more insights:
-- 🔭 I’m currently working on **Nothing Really (besides my last semester project)**
-- 🌱 I’m currently learning **Deep Learning, Machine Learning etc.**
-- 👯 I’m looking to collaborate on **Well anything**
-- 🤔 I’m looking for help with **Anything**
-- 💬 Ask me about **anything which is not rubbish**.
-- 😄 Pronouns: **Him, Himself**
+- 🔭 I’m currently working on **something serious**, but you can always hook me up.
+- 🌱 I’m currently learning **lots of things**.
+- 👯 I’m looking to collaborate on **something useful**.
+- 🤔 I’m looking for help with **anything unrelated to life**. 
+- 💬 Ask me about **anything unrelated to my future endeavors **.
 - ⚡ Fun fact: **I memorize really well, reading backwards** 📖.
+
+## Want to contact me:
+- You can always use my email **anweshanrc15@gmail.com**.
