@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>!
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
 
 
 My name is Anweshan Roy Chowdhury (aka @formula21). I am a student that enjoys studying computer science as my primary subject. I am now pursuing **Master of Science in Computer Science** at the University of Calcutta. I received an **A** letter grade and a **Bachelor of Science (Honors) Degree** from the same university in 2021. I completed my schooling at La Martiniere for Boys, earning the best scores in Computer Science for both my I.S.C. and I.C.S.E.
