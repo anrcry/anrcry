@@ -19,5 +19,4 @@ Aside from programming, I enjoy playing my synthesizer, listening to music, bing
 - ⚡ Fun fact: **I memorize really well, reading backwards** 📖.
 
 ## Want to contact me:
-- You may use the contact form at 
 - You can always use my email **anweshanrc15@gmail.com**.
