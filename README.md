@@ -15,7 +15,7 @@ Aside from programming, I enjoy playing my synthesizer, listening to music, bing
 - 🌱 I’m currently learning **lots of things**.
 - 👯 I’m looking to collaborate on **something useful**.
 - 🤔 I’m looking for help with **anything unrelated to life**. 
-- 💬 Ask me about **anything unrelated to my future endeavors **.
+- 💬 Ask me about **anything unrelated to my future endeavors**.
 - ⚡ Fun fact: **I memorize really well, reading backwards** 📖.
 
 ## Want to contact me:
