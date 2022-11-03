@@ -2,11 +2,11 @@
 
 > “Computer Science is no more about computers than astronomy is about telescopes.” ~ Edsger Dijkstra
 
-My name is Anweshan Roy Chowdhury (aka @anrcry). I am current working as a Full Stack Developer at [Pravaah Consulting](https://www.pravaahconsulting.com/), while studying & pursuing **Master of Science in Computer Science** from the University of Calcutta. I received an **A** letter grade and a **Bachelor of Science (Honors) Degree** from the same university in 2021. I completed my schooling at La Martiniere for Boys, earning the best scores in Computer Science for both my I.S.C. and I.C.S.E.
+I'm Anweshan Roy Chowdhury (aka @anrcry). I am current working as a Full Stack Developer at [Pravaah Consulting](https://www.pravaahconsulting.com/), while studying & pursuing **Master of Science in Computer Science** from the University of Calcutta. I received an **A** letter grade and a **Bachelor of Science (Honors) Degree** from the same university in 2021. I completed my schooling at La Martiniere for Boys, earning the best scores in Computer Science for both my I.S.C. and I.C.S.E.
 
 > Are you intrigued? Visit my [website 🌐](https://anrcry.github.io).
 
-You may have guessed that **I enjoy coding**. My major areas of interest include _artificial intelligence, backend development, UI/UX development_. I also enjoy bridging the gap between old and modern programming languages.
+You may have guessed that **I enjoy coding**. My major areas of interest include _artificial intelligence, backend development, UI/UX development_.
 
 > Want to work with me or hire me? You may want a peek 👁 at my [resume](https://anrcry.github.io/cv.html) or visit my [LinkedIn](https://linkedin.com/in/anrcry).
 
@@ -33,3 +33,4 @@ Aside from programming, I enjoy playing my synthesizer, listening to music, bing
 - [Facebook](https://facebook.com/anrcry)
 - [Instagram](https://instagram.com/_anrcry)
 - [LinkedIn](https://linkedin.com/in/anrcry)
+- [Google Developer Profile](https://g.dev/anrcry)
