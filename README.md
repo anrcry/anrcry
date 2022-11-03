@@ -2,7 +2,7 @@
 
 > “Computer Science is no more about computers than astronomy is about telescopes.” ~ Edsger Dijkstra
 
-My name is Anweshan Roy Chowdhury (aka @anrcry). I am a student that enjoys studying computer science as my primary subject. I am now pursuing **Master of Science in Computer Science** at the University of Calcutta. I received an **A** letter grade and a **Bachelor of Science (Honors) Degree** from the same university in 2021. I completed my schooling at La Martiniere for Boys, earning the best scores in Computer Science for both my I.S.C. and I.C.S.E.
+My name is Anweshan Roy Chowdhury (aka @anrcry). I am current working as a Full Stack Developer at [Pravaah Consulting](https://www.pravaahconsulting.com/), while studying & pursuing **Master of Science in Computer Science** from the University of Calcutta. I received an **A** letter grade and a **Bachelor of Science (Honors) Degree** from the same university in 2021. I completed my schooling at La Martiniere for Boys, earning the best scores in Computer Science for both my I.S.C. and I.C.S.E.
 
 > Are you intrigued? Visit my [website 🌐](https://anrcry.github.io).
 
@@ -10,18 +10,17 @@ You may have guessed that **I enjoy coding**. My major areas of interest include
 
 > Want to work with me or hire me? You may want a peek 👁 at my [resume](https://anrcry.github.io/cv.html) or visit my [LinkedIn](https://linkedin.com/in/anrcry).
 
-I've learned a number of programming languages throughout the years, some as part of my academic pursuits and others simply out of interest. Python is one of my favourite programming languages. The most current programming languages I learnt are the popular JS Frameworks such as Node.js, React.js, and Express, to mention a few. I've also started the switch from RESTful API to GraphQL API and rapidly adapting to changes wherever possible. However, this does not indicate that I am unfamiliar with PHP, MySQL, or Java. I feel that when these languages are combined with modern languages, they provide some of the greatest outcomes. Recently, I've started merging PHP and Laravel projects with Node.js libraries. One example is using 'socket.io' to track changes to a file and provide users with real-time notifications and UI modifications.
+Over these years, I have learned multiple programming languages. The ones I love personally and use professionally is JavaScript (Front-End & Back-End) \[Recommended with TypeScript 🤩\], Flutter & Python and sometimes PHP among others. I am extremely familiar with ReactJS, moderately with VueJS and AngularJS. I often use ViteJS among other build tools in most projects. I actively develop backend with Node.js and Python, truely bringing the Full Stack Experience. Among these, I am also quite familiar with Laravel Framework. My database flavour would always be NoSQL to SQL. So I would give [Firebase](https://firebase.google.com) Product of Century 🏆 award. This is one of my most used Backend-as-a-Service (BaaS) accross all projects. I also use firebase to host my sites once they are completed. However other databases like PostgresSQL & MySQL are also loved.
+
+> ⭐ Star Project: [Virtual Birthday Card](https://birthday-card.web.app)
 
 > Want to contact me? Well you can email me at **anweshanrc15@gmail.com** or DM me on [Twitter](https://twitter.com/anrcry), [Instagram](https://instagram.com/_anrcry) or [Facebook](https://fb.me/anrcry) or [Messenger](https://m.me/anrcry).
 
 Aside from programming, I enjoy playing my synthesizer, listening to music, binge-watching fascinating shows, and eating a lot of excellent (or perhaps amazing) food (very often, without a reason).
 
 ### Here are some more insights:
-- 🔭 I’m currently working on **something serious**, but you can always hook me up.
-- 🌱 I’m currently learning **lots of things**.
-- 👯 I’m looking to collaborate on **something useful**.
-- 🤔 I’m looking for help with **anything unrelated to life**. 
-- 💬 Ask me about **anything unrelated to my future endeavors**.
+- 🔭 I’m currently working on a something secret ✨. 
+- 🌱 I’m currently learning **lots of stuff (Flutter 😑)**
 - ⚡ Fun fact: **I memorize really well, reading backwards** 📖.
 
 ## Contact Info:
